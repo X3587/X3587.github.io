@@ -1,1 +1,1 @@
-# X3587.github.io
+# HEXO 个人博客搭建
