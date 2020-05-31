@@ -101,4 +101,3 @@ deploy:
   type: git
   repo: https://github.com/X3587/X3587.github.io.git
   branch: master
-  message: [message]
